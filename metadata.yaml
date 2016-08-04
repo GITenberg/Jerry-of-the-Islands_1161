@@ -1,0 +1,30 @@
+_repo: Jerry-of-the-Islands_1161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: Published in 1915, this novel, based on London's experiences sailing
+  the South Seas, features the adventures of a dog named Jerry. As London wrote in
+  his foreword to the novel, "The adventures of my dog hero in this novel are real
+  adventures in a very real cannibal world."
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Oceania -- Fiction'
+- GITenberg
+title: Jerry of the Islands
+url: http://www.gutenberg.org/ebooks/1161
