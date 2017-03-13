@@ -1,5 +1,8 @@
 _repo: Jerry-of-the-Islands_1161
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -13,6 +16,8 @@ description: Published in 1915, this novel, based on London's experiences sailin
   the South Seas, features the adventures of a dog named Jerry. As London wrote in
   his foreword to the novel, "The adventures of my dog hero in this novel are real
   adventures in a very real cannibal world."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1161#Jerry-of-the-Islands
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
